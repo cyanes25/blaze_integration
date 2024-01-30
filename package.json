@@ -1,0 +1,17 @@
+{
+    "name": "blaze_integration",
+    "version": "1.0.0",
+    "description": "PIX integration for blaze",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "BRLA Digital",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.1"
+    }
+}
